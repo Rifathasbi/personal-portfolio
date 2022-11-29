@@ -4,7 +4,7 @@ export const ProjectList = [
     {
         name:'PPSB M I B S',
         img: Proj1,  
-        skills: 'PHP, CodeIgniter, CSS, MySQL'
+        skills: 'PHP, JavaScript, CodeIgniter, MySQL'
     }
 ]
 
